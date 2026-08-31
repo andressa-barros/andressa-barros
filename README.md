@@ -27,11 +27,3 @@ I'm a **Computer Science student** (since 2024) who loves turning ideas into cod
 -  **Game Development:** Experimenting with game mechanics using **Unity** and **C#**.
 
 > *Always eager to learn new technologies, improve my skills, and collaborate on exciting projects!*
-
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andressa-barros&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Andressa's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-barros&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
