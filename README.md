@@ -1,4 +1,4 @@
-# Hello! I'm Andressa.
+# Hello! I'm Andressa :)
 
 I'm a Computer Science student (since 2024) who loves turning ideas into code.
 
