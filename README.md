@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello! I'm Andressa.
 
-<!--
-**andressa-barros/andressa-barros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student (since 2024) who loves turning ideas into code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- **Core Languages:** Java and Python
+- **Web Development:** HTML, CSS, and JavaScript
+- **UI Design:** Creating interfaces on Figma for fun & personal projects
+- **Game Development:** Exploring game dev using Unity and C#
+
+---
+
+*Always eager to learn new technologies, improve my skills, and collaborate on exciting projects!*
