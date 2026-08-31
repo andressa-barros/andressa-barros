@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Andressa :)</h1>
 
 <p align="center">
-  <em>Computer Science Student & Software Developer</em>
+  <em>Computer Science Student</em>
 </p>
 
 <p align="center">
