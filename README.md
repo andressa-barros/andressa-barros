@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
----
+
 
 ### About Me
 
@@ -28,11 +28,10 @@ I'm a **Computer Science student** (since 2024) who loves turning ideas into cod
 
 > *Always eager to learn new technologies, improve my skills, and collaborate on exciting projects!*
 
----
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andressa-barros&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-barros&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andressa-barros&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Andressa's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-barros&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
