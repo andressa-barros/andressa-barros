@@ -21,7 +21,7 @@
 
 I'm a **Computer Science student** (since 2024) who loves turning ideas into code.
 
-- **Main Languages:** Writing back-end solutions using **Java** and **Python**.
+- **Main Languages:** Writing solutions using **Java** and **Python**.
 - **Web Development:** Building modern interfaces with **HTML**, **CSS**, and **JavaScript**.
 - **UI Design:** Crafting layout concepts and prototypes in **Figma** for personal projects.
 - **Game Development:** Experimenting with game mechanics using **Unity** and **C#**.
