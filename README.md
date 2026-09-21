@@ -1,4 +1,10 @@
-<h1 align="center">Hello! I'm Andressa :)</h1>
+<h1 align="center">Hello :)</h1>
+                                                  
+                                                  
+▄████▄ ▄▄  ▄▄ ▄▄▄▄  ▄▄▄▄  ▄▄▄▄▄  ▄▄▄▄  ▄▄▄▄  ▄▄▄  
+██▄▄██ ███▄██ ██▀██ ██▄█▄ ██▄▄  ███▄▄ ███▄▄ ██▀██ 
+██  ██ ██ ▀██ ████▀ ██ ██ ██▄▄▄ ▄▄██▀ ▄▄██▀ ██▀██ 
+                                                  
 
 <p align="center">
   <em>Computer Science Student</em>
